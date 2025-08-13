@@ -6,6 +6,8 @@ This project performs a binary classification of faces into the classes 'tired' 
 Файл train_easy.py – файл, в котором описывается архитектура нейросети и процесс обучения.
 Eval.py – файл с программой для оценки качества нейронной сети.
 check_hash.py – Файл с программой для поиска дублирующих файлов в выборках
+camera.py - детекция в реальном времени
+
 
 При обучении я использовал датасет DDD (Drawsy detection dataset) - https://www.kaggle.com/datasets/yasharjebraeily/drowsy-detection-dataset
 Для обучения модели запустить файл train_easy.py
